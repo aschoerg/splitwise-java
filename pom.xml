@@ -6,7 +6,7 @@
 
     <groupId>com.github.sritejakv</groupId>
     <artifactId>splitwise</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Library to access splitwise in Java programming language</description>
     <url>https://github.com/sritejakv/splitwise-java</url>
@@ -72,7 +72,7 @@
                 <executions>
                     <execution>
                         <id>sign-artifacts</id>
-                        <phase>verify</phase>
+                        <phase>deploy</phase>
                         <goals>
                             <goal>sign</goal>
                         </goals>

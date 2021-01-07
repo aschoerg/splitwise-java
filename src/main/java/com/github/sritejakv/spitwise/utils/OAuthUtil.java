@@ -1,4 +1,4 @@
-package utils;
+package com.github.sritejakv.spitwise.utils;
 
 import com.github.scribejava.core.builder.ServiceBuilder;
 import com.github.scribejava.core.builder.api.DefaultApi10a;

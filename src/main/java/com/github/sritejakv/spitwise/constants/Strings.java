@@ -1,7 +1,7 @@
-package constants;
+package com.github.sritejakv.spitwise.constants;
 
 /**
- * String constants used in the library.
+ * String com.github.sritejakv.spitwise.constants used in the library.
  */
 public class Strings {
     public static final String SPLITWISE_API_VERSION = "v3.0";

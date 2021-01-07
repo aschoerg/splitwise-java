@@ -1,7 +1,7 @@
-package constants;
+package com.github.sritejakv.spitwise.constants;
 
 /**
- * Contains the Splitwise REST API URLs from (http://dev.splitwise.com/#introduction).
+ * Contains the com.github.sritejakv.spitwise.Splitwise REST API URLs from (http://dev.splitwise.com/#introduction).
  */
 public class URL {
     public static final String BASE_URL = String.format("https://secure.splitwise.com/api/%s",

@@ -1,4 +1,4 @@
-package constants;
+package com.github.sritejakv.spitwise.constants;
 
 public class MockResponses {
 
